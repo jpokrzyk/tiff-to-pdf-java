@@ -12,6 +12,6 @@
 hs_err_pid*
 lib
 resources
-.idea
-*.iml
+.idea/workspace.xml
+.idea/tasks.xml
 out
